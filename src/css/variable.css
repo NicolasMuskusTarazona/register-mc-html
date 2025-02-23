@@ -1,0 +1,17 @@
+:root{
+    --color-1: rgb(98, 8, 8);
+    --color-2: rgb(41, 41, 107);
+    --color-3: rgb(232, 232, 11);
+    --color-4: rgb(98, 97, 97);
+}
+
+@font-face {
+    font-family: "Inter_18-Bold";
+    src: url(../fonts/Inter/static/Inter_18pt-Bold.ttf);
+}
+
+/* H1 */
+@font-face {
+    font-family: "Inter_28-ExtraBoldItalic";
+    src: url(../fonts/Inter/static/Inter_28pt-ExtraBoldItalic.ttf);
+}
